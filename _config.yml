@@ -24,7 +24,7 @@ github_username:
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+remote_theme: WiLawJA/minima-law
 plugins:
   - jekyll-feed
 
