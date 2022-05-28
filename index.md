@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: WiLawJA - Home
 ---
 
 ## So if I type here something will appear?
